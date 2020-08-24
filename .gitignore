@@ -3,3 +3,4 @@ src/generated/
 .qmake.stash
 i18n/chessx_de.qm
 Makefile
+release/
